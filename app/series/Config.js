@@ -29,12 +29,6 @@ define([],
 				title: "Straten van Purmerend",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
-			},
-			{			
-				id: "13cf696a4aeb40a3b24a2d8dc1561fb9",
-				title: "Bouwjaar panden",
-				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
-				showSingleTimeInstance: false
 			}
 			 
 			],
