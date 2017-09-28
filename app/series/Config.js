@@ -24,7 +24,7 @@ define([],
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
 				showSingleTimeInstance: false
 			},
-			{			
+				{			
 				id: "a6b660e4f13e4ac8b082f9afe58efe11",
 				title: "Straten van Purmerend",
 				// If your map has time properties, choose to show a single time instance instead of the time interval saved with the web map.
@@ -35,7 +35,7 @@ define([],
 			//Enter a title, if no title is specified, the first webmap's title is used.
 			title: "Erfgoed Purmerend",
 			//Enter a subtitle, if no subtitle is specified, the first webmap's subtitle is used.
-			subtitle: "Erfgoed kaart gemeente Purmerend",
+			subtitle: "Leiden kent een lange geschiedenis. In de tabbladen hieronder leest u meer over de ontwikkeling van de stad.",
 			// If false, each tab will have a number on it. If true, the first tab will not have a number and the second tab will start counting at 1.
 			startCountOnSecondTab: false,
 			//Sync maps scale and location
